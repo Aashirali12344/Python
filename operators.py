@@ -51,9 +51,9 @@ print("slice of string ",word[3:7])
 
 x=int(input("enter first number"))
 y=int(input("enter second number"))
- temp=x
- x=y
- y=temp
- print("after swapping")
- print("X=",x)
- print("Y=",y)
+temp=x
+x=y
+y=temp
+print("after swapping")
+print("X=",x)
+print("Y=",y)
